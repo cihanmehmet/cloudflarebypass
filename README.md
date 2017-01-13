@@ -1,1 +1,1 @@
-# cloudflare bypass etmek için kullanılan bir kaç script
+# cloudflare bypass etmek için kullanılan basit betikler
