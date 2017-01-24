@@ -24,7 +24,7 @@ echo $GRNN"
 }
 clear
 f_header
-echo -n $GRN">$STD Enter website name : Example = $RED google.com $STD ya da $RED fb.com $STD:"$BLU
+echo -n $GRN">$STD Enter website name : Example = $RED cloudflare.com $STD:"$BLU
 read lookup
 if [ "$lookup" == "" ] ; then 
 echo $RED">$STD Missing input or input error, " 
