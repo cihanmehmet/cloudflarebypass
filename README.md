@@ -6,18 +6,10 @@ sudo chmod +x dnsresolver.sh
 
 sudo chmod +x  cloulflarebypass.py
 
-Kullanımı 
+## Kullanımı
+## python cloulflarebypass.py 
+![alt tag](http://i.hizliresim.com/Er98MZ.png)
 
-./cloulflarebypass.py 
-Enter Web Site Adress: Example:google.com = esintitaki.com
-[!] CloudFlare Bypass 95.130.173.226 :| ftp.esintitaki.com
-[!] CloudFlare Bypass 95.130.173.226 :| cpanel.esintitaki.com
-[!] CloudFlare Bypass 95.130.173.226 :| webmail.esintitaki.com
-[!] CloudFlare Bypass 95.130.173.226 :| mail.esintitaki.com
-[!] CloudFlare Bypass 104.18.55.40 :| www.esintitaki.com
-
-
-
-./dnsresolver.sh 
-      
-> Enter website name : Example =  google.com  ya da  fb.com :esintitaki.com
+## python dnsresolver.sh 
+Enter website name : Example =  google.com :esintitaki.com
+![alt tag](http://i.hizliresim.com/GPMRgr.png)
