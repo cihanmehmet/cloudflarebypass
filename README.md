@@ -1,7 +1,10 @@
-# cloudflare bypass etmek için kullanılan basit betikler
-İlk başta scriptlerimizi çalıştırmamız için  yazma izni vermeliyiz
+# cloudflare bypass etmek için kullanılan iki ayrı script bulunmaktadır.
 
-sudo chmod +x cloulflarebypass.py dnsresolver.sh
+İlk başta scriptlerimizi çalıştırabilmemiz için  yazma izni vermeliyiz
+
+sudo chmod +x dnsresolver.sh
+
+sudo chmod +x  cloulflarebypass.py
 
 Kullanımı 
 
@@ -10,15 +13,5 @@ Enter Web Site Adress: Example:google.com = esintitaki.com
 
 
 ./dnsresolver.sh 
-
-
-██████╗ ███╗   ██╗███████╗██████╗ ███████╗███████╗ ██████╗ ██╗    ██╗   ██╗███████╗██████╗ 
-██╔══██╗████╗  ██║██╔════╝██╔══██╗██╔════╝██╔════╝██╔═══██╗██║    ██║   ██║██╔════╝██╔══██╗
-██║  ██║██╔██╗ ██║███████╗██████╔╝█████╗  ███████╗██║   ██║██║    ██║   ██║█████╗  ██████╔╝
-██║  ██║██║╚██╗██║╚════██║██╔══██╗██╔══╝  ╚════██║██║   ██║██║    ╚██╗ ██╔╝██╔══╝  ██╔══██╗
-██████╔╝██║ ╚████║███████║██║  ██║███████╗███████║╚██████╔╝███████╗╚████╔╝ ███████╗██║  ██║
-╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚══════╝ ╚═══╝  ╚══════╝╚═╝  ╚═╝
-                                                                                           
-===> https//github.com/cihanmehmet                                                                                                                                                   
-
+      
 > Enter website name : Example =  google.com  ya da  fb.com :esintitaki.com
