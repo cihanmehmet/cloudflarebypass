@@ -38,9 +38,13 @@ Enter website name : Example =  google.com :esintitaki.com
 git clone https://github.com/HatBashBR/HatCloud.git 
 
 cd HatCloud
+
 sudo chmod +x hatcloud.rb
+
 Kullanımı
+
 ruby hatcloud.rb -b targetsite.com
+
 ruby hatcloud.rb --byp targetsite.com
 
 
