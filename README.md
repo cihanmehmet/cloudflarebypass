@@ -1,3 +1,7 @@
+
+https://canyoupwn.me/tr-cloudflare-bypass-yontemleri/
+
+
 # cloudflare bypass etmek için kullanılan iki ayrı script bulunmaktadır.
 
 
