@@ -12,24 +12,26 @@ cd cloudflarebypass
 İlk başta scriptlerimizi çalıştırabilmemiz için  yazma izni vermeliyiz
 
 sudo chmod +x dnsresolver.sh
-
+```
 python cloulflarebypass.py 
-
+```
 ya da
-
+```
 ./cloulflarebypass.py
-
+```
 sudo chmod +x  cloulflarebypass.py
 
+```
 bash dnsresolver.sh 
-
+```
 ya da
-
+```
 ./dnsresolver.sh
-
+```
 ## Kullanımı
-## python cloulflarebypass.py 
-
+```
+python cloulflarebypass.py 
+```
 ![image](http://h.eksiup.com/Er98MZ.png)
 ## bash dnsresolver.sh 
 
