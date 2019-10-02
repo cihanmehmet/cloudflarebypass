@@ -29,12 +29,12 @@ ya da
 
 ## Kullanımı
 ## python cloulflarebypass.py 
-![alt tag](http://i.hizliresim.com/Er98MZ.png)
 
+![image](http://h.eksiup.com/Er98MZ.png)
 ## bash dnsresolver.sh 
+
 Enter website name : Example =  google.com :esintitaki.com
 ![alt tag](http://i.hizliresim.com/GPMRgr.png)
-
 
 
 ## Ruby ile yazılmış olan gerçek ip adresini bulmak için yazılmış başla bir araç.
